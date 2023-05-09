@@ -8,7 +8,6 @@ const Home = () => {
   return (
     <>
     <Heading/>
-    {/* <Form/> */}
     <Show/>
     </>
   );
